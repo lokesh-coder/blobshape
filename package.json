@@ -1,0 +1,19 @@
+{
+  "name": "blobshape",
+  "version": "1.0.0",
+  "description": "Generate SVG blob shapes",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokesh-coder/blobshape.git"
+  },
+  "author": {
+    "name": "Lokesh Rajendran",
+    "email": "mexican.dirtyfellow@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lokesh-coder/blobshape/issues"
+  },
+  "homepage": "https://github.com/lokesh-coder/blobshape#readme"
+}
