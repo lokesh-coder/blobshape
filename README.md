@@ -1,6 +1,17 @@
-# Blob shape generator
+<h3  align="center">
 
-Generate unique and fixed shaope blobs for web apps.
+<br>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/1754676/111070745-0c1ecb80-84f9-11eb-9128-fff8b2ab2b40.png"  alt="Blobs"></p>
+
+</h3>
+
+<h4  align="center">Generate unique and fixed shape blobs for web apps</h4>
+
+&nbsp;
+
+
 
 ## Installation
 
