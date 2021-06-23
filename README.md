@@ -60,7 +60,7 @@ const svg = `<svg viewBox="0 0 100 100"><path d=${path} /></svg>`;
 
 ## Demo
 
-To see live action of this package check [blobs.app](http://blobs.app) and you can find the source code for that in [github repo](https://github.com/lokesh-coder/blobs.app).
+To see live action of this package check [blobs.app](https://blobs.app) and you can find the source code for that in [github repo](https://github.com/lokesh-coder/blobs.app).
 
 ## License
 
