@@ -27,7 +27,7 @@ npm i blobshape
 import blobshape from "blobshape";
 
 const { path, seedValue } = blobshape();
-const svg = `<svg viewBox="0 0 100 100"><path d=${path} /></svg>`;
+const svg = `<svg viewBox="0 0 100 100"><path d="${path}" /></svg>`;
 
 // seedValue - returns id string, later it can be used to get same shape
 ```
@@ -40,7 +40,7 @@ Set `seed` value to get same fixed shape
 import blobshape from "blobshape";
 
 const { path } = blobshape({ seed: "6-6-7171" });
-const svg = `<svg viewBox="0 0 100 100"><path d=${path} /></svg>`;
+const svg = `<svg viewBox="0 0 100 100"><path d="${path}" /></svg>`;
 ```
 
 ### Config
@@ -55,7 +55,7 @@ const svg = `<svg viewBox="0 0 100 100"><path d=${path} /></svg>`;
 import blobshape from "blobshape";
 
 const { path } = blobshape({ size: 300, growth: 6, edges: 6, seed: null });
-const svg = `<svg viewBox="0 0 100 100"><path d=${path} /></svg>`;
+const svg = `<svg viewBox="0 0 100 100"><path d="${path}" /></svg>`;
 ```
 
 ## Demo
